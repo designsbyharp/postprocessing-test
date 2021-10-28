@@ -1,0 +1,18 @@
+html{
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+/*# sourceMappingURL=/app.ae05fb60.css.map */
